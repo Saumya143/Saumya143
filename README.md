@@ -10,7 +10,7 @@ I am actively working on various frontend and backend modules of a NLP and CV li
 
 
 <p align="center">
-<a href="https://github.com/Saumya143/Resume/blob/main/Saumya Ranjan Mohanty,docx"><img height=25em src="https://github.com/Saumya143/Saumya143/blob/main/icons/resume.png" /></a> &nbsp &nbsp
+<a href="https://github.com/Saumya143/Resume/blob/main/Saumya Ranjan Mohanty.docx"><img height=25em src="https://github.com/Saumya143/Saumya143/blob/main/icons/resume.png" /></a> &nbsp &nbsp
 <a href=mailto: saumyaranjanmohanty27@gmail.com"><img height=25em src="https://github.com/Saumya143/Saumya143/blob/main/icons/email.png" /></a> &nbsp &nbsp
 <a href="https://www.linkedin.com/in/saumya-ranjan-mohanty-929781188/"><img height=25em src="https://github.com/Saumya143/Saumya143/blob/main/icons/linkedin.png" /></a> &nbsp &nbsp
 <a href="https://www.facebook.com/soumyaranjan.mohanty.395"><img height=25em src="https://github.com/Saumya143/Saumya143/blob/main/icons/facebook.png" /></a>&nbsp &nbsp
